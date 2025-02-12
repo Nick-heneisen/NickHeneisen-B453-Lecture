@@ -1430,3 +1430,26 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.12-01.20.42:959][956]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
 [2025.02.12-01.20.42:959][956]LogExit: Preparing to exit.
 [2025.02.12-01.20.43:458][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.12-01.20.44:361][956]LogEditorDataStorage: Deinitializing
+[2025.02.12-01.20.45:259][956]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.02.12-01.20.45:715][956]LogExit: Editor shut down
+[2025.02.12-01.20.45:716][956]LogExit: Transaction tracking system shut down
+[2025.02.12-01.20.49:168][956]LogExit: Object subsystem successfully closed.
+[2025.02.12-01.20.49:218][956]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.12-01.20.50:408][956]LogMemoryProfiler: Shutdown
+[2025.02.12-01.20.50:415][956]LogNetworkingProfiler: Shutdown
+[2025.02.12-01.20.50:415][956]LoadingProfiler: Shutdown
+[2025.02.12-01.20.50:422][956]LogTimingProfiler: Shutdown
+[2025.02.12-01.20.52:425][956]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.02.12-01.20.52:854][956]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.02.12-01.20.52:855][956]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83FB3355-49C0-31EB-90A2-7C99449F5F52%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=309d8a0844851a420122a38af3725775%7Cd9770ff82cc642d7985329447d5f7db4%7C00c39987-dbf7-4a38-86b9-ce22cdab1cd5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.02.12-01.20.53:482][956]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.02.12-01.20.53:501][956]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.02.12-01.20.53:501][956]LogNFORDenoise: NFORDenoise function shutting down
+[2025.02.12-01.20.53:527][956]RenderDocPlugin: plugin has been unloaded.
+[2025.02.12-01.20.53:742][956]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.02.12-01.20.53:742][956]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.02.12-01.20.53:757][956]LogPakFile: Destroying PakPlatformFile
+[2025.02.12-01.20.54:061][956]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.12-01.20.54:175][956]LogExit: Exiting.
+[2025.02.12-01.20.54:195][956]Log file closed, 02/11/25 20:20:54
