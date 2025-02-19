@@ -1,0 +1,126 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/Billions
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:3DFBBD8B41047166D3D34A9B4A754EEE BaseClass:/Game/Blueprints/Bases/BP_OrangeBase.BP_OrangeBase_C NativeClass:/Script/Engine.Actor Name:BP_OrangeBase_C_UAID_0A002700001B924D02_1787951504 Label:BP_OrangeBase SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-464.006 Y=-874.006 Z=-114.006), Max=(X=-235.994 Y=-645.994 Z=114.006) RuntimeBounds:IsValid=true, Min=(X=-464.006 Y=-874.006 Z=-114.006), Max=(X=-235.994 Y=-645.994 Z=114.006) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:46677D71411DFC4FB3E6FAAF64ED6A11 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1441912628 Label:Box4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-560.000 Y=-1170.000 Z=0.000), Max=(X=560.000 Y=-1070.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-560.000 Y=-1170.000 Z=0.000), Max=(X=560.000 Y=-1070.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- Guid:5199C8C14119BBE6A5656E8571540C23 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1864111629 Label:Box5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=-100.000), Max=(X=660.000 Y=1170.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=-100.000), Max=(X=660.000 Y=1170.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:53DE73BD46C600EC09FDB3832B018191 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1360206625 Label:Box SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=560.000 Y=-1170.000 Z=0.000), Max=(X=660.000 Y=1170.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=560.000 Y=-1170.000 Z=0.000), Max=(X=660.000 Y=1170.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:BD39E53E42A1C9356EEC08A4E3E3027B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1385297626 Label:Box2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=0.000), Max=(X=-560.000 Y=1170.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=0.000), Max=(X=-560.000 Y=1170.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- Guid:D070A54E41C417567A3AA39EC190588C NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_0A002700001B8C4D02_2084423447 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=-38.000), Max=(X=240.000 Y=128.000 Z=218.000) RuntimeBounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=-2.000), Max=(X=40.000 Y=40.000 Z=182.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:F5B5E54C4DD94650F5992189182DA6BB NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1420788627 Label:Box3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-560.000 Y=1070.000 Z=0.000), Max=(X=560.000 Y=1170.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-560.000 Y=1070.000 Z=0.000), Max=(X=560.000 Y=1170.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:3DFBBD8B41047166D3D34A9B4A754EEE BaseClass:/Game/Blueprints/Bases/BP_OrangeBase.BP_OrangeBase_C NativeClass:/Script/Engine.Actor Name:BP_OrangeBase_C_UAID_0A002700001B924D02_1787951504 Label:BP_OrangeBase SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-464.006 Y=-874.006 Z=-114.006), Max=(X=-235.994 Y=-645.994 Z=114.006) RuntimeBounds:IsValid=true, Min=(X=-464.006 Y=-874.006 Z=-114.006), Max=(X=-235.994 Y=-645.994 Z=114.006) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:46677D71411DFC4FB3E6FAAF64ED6A11 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1441912628 Label:Box4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-560.000 Y=-1170.000 Z=0.000), Max=(X=560.000 Y=-1070.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-560.000 Y=-1170.000 Z=0.000), Max=(X=560.000 Y=-1070.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:5199C8C14119BBE6A5656E8571540C23 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1864111629 Label:Box5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=-100.000), Max=(X=660.000 Y=1170.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=-100.000), Max=(X=660.000 Y=1170.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:53DE73BD46C600EC09FDB3832B018191 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1360206625 Label:Box SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=560.000 Y=-1170.000 Z=0.000), Max=(X=660.000 Y=1170.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=560.000 Y=-1170.000 Z=0.000), Max=(X=660.000 Y=1170.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:BD39E53E42A1C9356EEC08A4E3E3027B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1385297626 Label:Box2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=0.000), Max=(X=-560.000 Y=1170.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=0.000), Max=(X=-560.000 Y=1170.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:D070A54E41C417567A3AA39EC190588C NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_0A002700001B8C4D02_2084423447 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=-38.000), Max=(X=240.000 Y=128.000 Z=218.000) RuntimeBounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=-2.000), Max=(X=40.000 Y=40.000 Z=182.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:F5B5E54C4DD94650F5992189182DA6BB NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0A002700001B8D4D02_1420788627 Label:Box3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-560.000 Y=1070.000 Z=0.000), Max=(X=560.000 Y=1170.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-560.000 Y=1070.000 Z=0.000), Max=(X=560.000 Y=1170.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Stage FolderGuid:51664FD9433F14878FF9B6B3BFC7770D
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-660.000 Y=-1170.000 Z=-114.006), Max=(X=660.000 Y=1170.000 Z=114.006)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/Billions
+----------------------------------------------------------------------------------------------------------------
+Billions - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Billions Persistent Level
+ |- Always loaded Actor Count: 4 
+ |- Actor Path: /Game/Levels/Billions.Billions:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/Levels/Billions/5/QN/AFNG8YHU8HSNJMTHSCH9YI
+ |- Actor Path: /Game/Levels/Billions.Billions:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+ |- Actor Package: /Game/__ExternalActors__/Levels/Billions/B/0K/IX80838FOKAGVUOETX19B4
+ |- Actor Path: /Game/Levels/Billions.Billions:PersistentLevel.PlayerStart_UAID_0A002700001B8C4D02_2084423447
+ |- Actor Package: /Game/__ExternalActors__/Levels/Billions/2/AT/IRR3W1I9VYRFESVAAO7PHZ
+ |- Actor Path: /Game/Levels/Billions.Billions:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/Billions/D/3R/HO7UMJOBZXAP5IETQXF8HM
+
+----------------------------------------------------------------------------------------------------------------
+Billions - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell Billions_MainGrid_L0_X-1_Y-1_Z0 (1KG5ZUEW1VLHA7ZFTEO2IPA5O)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-464.006 Y=-874.006 Z=0.000), Max=(X=-235.994 Y=-645.994 Z=114.006)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/Levels/Billions.Billions:PersistentLevel.BP_OrangeBase_C_UAID_0A002700001B924D02_1787951504
+ |   |-         Package: /Game/__ExternalActors__/Levels/Billions/3/F9/UDXEBBOOV68UNIEQIPJD2F
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3DFBBD8B41047166D3D34A9B4A754EEE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Billions_MainGrid_L0_X0_Y0_Z-1 (5SGMOFLBG8YRSNIHV2B66J787)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=660.000 Y=1170.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-25200.000), Max=(X=25200.000 Y=25200.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/Levels/Billions.Billions:PersistentLevel.StaticMeshActor_UAID_0A002700001B8D4D02_1864111629
+ |   |-         Package: /Game/__ExternalActors__/Levels/Billions/7/ZR/ZF2O7ZG0UDJEUE0IEFG7I5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5199C8C14119BBE6A5656E8571540C23
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Billions_MainGrid_L0_X0_Y0_Z0 (6WPJ5O19SIAUG4IA7KMTINKAI)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=660.000 Y=1170.000 Z=100.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=25200.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/Levels/Billions.Billions:PersistentLevel.StaticMeshActor_UAID_0A002700001B8D4D02_1360206625
+ |   |-         Package: /Game/__ExternalActors__/Levels/Billions/1/3S/XOK96XDPW0OCIG294TGY3L
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 53DE73BD46C600EC09FDB3832B018191
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Levels/Billions.Billions:PersistentLevel.StaticMeshActor_UAID_0A002700001B8D4D02_1420788627
+ |   |-         Package: /Game/__ExternalActors__/Levels/Billions/D/CH/MYK5D79NK0MFX1LP2AF7DP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F5B5E54C4DD94650F5992189182DA6BB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Billions_MainGrid_L0_X-1_Y0_Z0 (AD5U497YSJBJIY0E5HTHV50XF)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-660.000 Y=0.000 Z=0.000), Max=(X=-560.000 Y=1170.000 Z=100.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/Levels/Billions.Billions:PersistentLevel.StaticMeshActor_UAID_0A002700001B8D4D02_1385297626
+ |   |-         Package: /Game/__ExternalActors__/Levels/Billions/0/FT/UNBUYCBLQQMLJZL8EDTXQS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BD39E53E42A1C9356EEC08A4E3E3027B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Billions_MainGrid_L0_X0_Y-1_Z0 (BMR3WX78718Q2BDQ6S3L2FCAD)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=-1170.000 Z=0.000), Max=(X=560.000 Y=-1070.000 Z=100.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-25200.000 Z=0.000), Max=(X=25200.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/Levels/Billions.Billions:PersistentLevel.StaticMeshActor_UAID_0A002700001B8D4D02_1441912628
+ |   |-         Package: /Game/__ExternalActors__/Levels/Billions/8/BP/3O5K17NK3GY0QB11OEZAAS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 46677D71411DFC4FB3E6FAAF64ED6A11
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
