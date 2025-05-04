@@ -56,8 +56,8 @@
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"base",
-			"uri":"base.png"
+			"name":"baseRed",
+			"uri":"baseRed.png"
 		}
 	],
 	"accessors":[
